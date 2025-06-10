@@ -285,7 +285,15 @@ In the event of a new president being elected while appointed staff members are 
 
 **Actions:**
 - Moderators may issue warnings for minor infractions in community spaces.
-- Temporary bans may be issued for repeated minor infractions or single serious infractions in community spaces.
+- Moderators may issue formal warnings in a ticket for repeated minor infractions in community spaces or a single moderate violation.
+- Moderators may issue temporary bans/timeouts for continued minor infractions after a warning has been issued, for moderate infractions that disrupt the community, or for severe infractions.
+- For moderate or severe infractions, a three strikes system shall be implemented:
+  - For moderate infractions, each infraction shall incur one strike.
+  - For severe infractions, the infraction may incur up to three strikes according to the severity of the offense.
+  - A member who accures strikes shall be subject to the following sanctions:
+    - 1 Strike: the member shall receive a temporary server timeout/ban between 2-7 days.
+    - 2 Strikes: the member shall receive a temporary server timeout/ban of 30 days and shall be prohibited from participating in LEAGUE7 matches or events for that same period.
+    - 3 Strikes: the member shall be permanently banned from all LEAGUE7 community spaces and prohibited from participating in any LEAGUE7 events or matches.
 - Permanent bans may be issued with President's approval for severe violations or repeated serious infractions in community spaces.
 - Staff will manage and enforce rules related to in-game exploits and gameplay violations.
 
