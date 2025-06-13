@@ -107,7 +107,7 @@ These guidelines ensure fair and consistent moderation in the LEAGUE7 Discord se
 - For any moderate/severe infractions
 
 #### 5.3.2 Timeout Durations
-- For a single minor infraction, the timeout duration shall be left to Moderator discretion, but should be no less than 1 hour and no more than 48 hours
+- For a single minor infraction, the timeout duration shall be left to Moderator discretion, but shall be no less than 1 hour and no more than 48 hours
 - For a single moderate infraction or multiple minor infractions, the timeout duration shall be left to Moderator discretion, but shall be no less than 2 days and no more than 7 days
 - For multiple moderate infractions or a single severe infraction, the timeout durations shall be left to Moderator discretion, but shall be no less than 7 days.
 
