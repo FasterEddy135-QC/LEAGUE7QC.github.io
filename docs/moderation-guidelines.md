@@ -1,4 +1,4 @@
-# Discord Moderation Rules & Guidelines
+# Discord/Twitch Moderation Rules & Guidelines
 
 ## 1. Introduction
 
