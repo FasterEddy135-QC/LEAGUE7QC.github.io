@@ -8,7 +8,7 @@ These guidelines ensure fair and consistent moderation in the LEAGUE7 Discord se
 
 - Treat all members with respect and professionalism
 - Communicate clearly and impartially with all community members
-- Document all moderation actions in the designated #moderation-log channel
+- Document all moderation actions in the designated #issued-actions channel
 - Consult with other moderators when unsure about a situation
 - Respect member privacy and never share personal information
 
@@ -71,57 +71,57 @@ These guidelines ensure fair and consistent moderation in the LEAGUE7 Discord se
 - Send warning details through the ticket system
 - Document the warning in the #moderation-log channel
 
-### 5.2 Timeouts
+### 5.2 Three Strikes System
 
-#### 5.2.1 When to Use Timeouts
+#### 5.2.1 Purpose
+- The Three Strikes system is intended to provide a framework for prompt and transparent handling of repeated serious violations of the LEAGUE7 Code of Conduct by members of the community
+- Members who commit moderate or severe infractions of the LEAGUE7 Code of Conduct may, depending on Moderator discretion, receive "strikes" which carry a defined penalty
+
+#### 5.2.2 Procedure for Handling Moderate/Severe Infractions
+- Apply a timeout to the member according to the guidelines in [5.3.2 Timeout Durations](#532-timeout-durations), open a ticket and ping the user
+- Send the details of the infraction through the ticket system and the penalty to be applied
+- Notify relevant parties if the user is part of a team or a member of the Captains' Council by adding them to the ticket.
+- Penalties may be any combination of:
+  - Timeout
+  - Prohibition on participating in LEAGUE7 activities for a set number of OWLs/NEWTs matches and/or a set number of days (requires approval of President to become effective)
+  - Assessment of one strike for moderate infractions or up to three strikes for severe infractions (requires approval of President to become effective)
+  - A permanent ban from the LEAGUE7 Discord server and prohibition from participating in any LEAGUE7 activities (requires approval of President to become effective)
+- Penalties applied by a Moderator and automatically by the Three Strikes system shall be considered to run concurrently, e.g. if a moderator applies a timeout of 7 days and a strike for a moderate infraction which carries an automatic penalty of a 2-7 day timeout, the timeout duration shall only be 7 days 
+- Should the penalty include the assessment of strike(s) or a prohibition in competing in LEAGUE7 events or matches for a defined time/number of games, ping the President for approval
+- Upon the approval of a strike being assessed, the member shall be advised of the number of strikes they have accrued and the penalty incurred
+- Advise the member who committed the infraction of their right to appeal via the [appeal process](#7-appeal-process).
+- Log the moderaton action in the #issued-actions channel.
+
+#### 5.2.3 Three Strikes Defined Penalties & Removal of Strikes
+- Members of the community who receive strikes shall have the following penalties automatically applied:
+  - 1 Strike: the member shall receive a temporary server timeout/ban between 2-7 days.
+  - 2 Strikes: the member shall receive a temporary server timeout/ban of 30 days and shall be prohibited from participating in LEAGUE7 matches or events for that same period.
+  - 3 Strikes: the member shall be permanently banned from all LEAGUE7 community spaces and prohibited from participating in any LEAGUE7 events or matches upon the President's approval.
+    - If the President does not wish to approve a permanent ban, they may implement a penalty more severe than the penalty specified for 2 strikes, but less than a permanent ban.
+- Should a member have accrued strikes, one strike shall be removed from their record for every consecutive 180 days of good behavior, defined as the member not accruing any further warnings or penalty of any sort.
+
+### 5.3 Timeouts
+
+#### 5.3.1 When to Use Timeouts
 - After a warning for continued minor infractions
-- For moderate rule violations that disrupt the community
+- For any moderate/severe infractions
 
-#### 5.2.2 Timeout Durations
-- First timeout: 1 hour
-- Second timeout: 6 hours
-- Third timeout: 24 hours
-- Further timeouts: Escalate to extended timeout
+#### 5.3.2 Timeout Durations
+- For a single minor infraction, the timeout duration shall be left to Moderator discretion, but should be no less than 1 hour and no more than 48 hours
+- For a single moderate infraction or multiple minor infractions, the timeout duration shall be left to Moderator discretion, but shall be no less than 2 days and no more than 7 days
+- For multiple moderate infractions or a single severe infraction, the timeout durations shall be left to Moderator discretion, but shall be no less than 7 days.
 
-#### 5.2.3 Timeout Procedure
-1. Assign the "Timed Out" role to the user, which prevents them from writing in general chat channels
-2. Inform the user of the reason for the timeout via Ticket
-3. Set the timeout duration by scheduling the role removal
-4. Document the action in the #moderation-log channel
+### 5.4 Prohibitions on Participating in LEAGUE7 Activities
 
-### 5.3 Extended Timeouts
+#### 5.4.1 When to Use Prohibitions on Participating in LEAGUE7 Activities
+- For any severe infractions
+- For moderate infractions which disrupt the community or repeated moderate infractions.
 
-#### 5.3.1 Moderate Extended Timeouts
-- Use for severe rule violations or repeated moderate infractions
-- Duration: 3 to 14 days, depending on severity and history
-- Inform the President, Staff, and Captain's Council when issuing a Moderate Extended Timeout to:
-  - Ensure transparency in moderation actions
-  - Allow for timely adjustments to team rosters or league schedules if necessary
-  - Maintain a cohesive approach to serious infractions across all levels of league management
+#### 5.4.2 Prohibitions on Participating in LEAGUE7 Activities Durations
+- Moderators have discretion when applying prohibitions on participating in LEAGUE7 activities, but the duration should be in proportion to the severity of the infraction and the history of the member who committed the infraction.
+- The President's approval is required before this penalty becomes effective. The member may participate in scheduled LEAGUE7 events until the penalty is approved.
+- The President may opt to decrease the duration of the penalty applied by the Moderators, but may never increase it.
 
-#### 5.3.2 Maximum Extended Timeouts
-- Reserve for extreme cases such as:
-  - Persistent rule-breaking after multiple moderate extended timeouts
-  - Hate speech, harassment, or threats
-  - Sharing explicit content
-  - Attempting to raid or spam the server
-- Duration: Up to 30 days
-
-#### 5.3.3 Extended Timeout Procedure
-1. Consult with at least one other moderator before issuing
-2. Assign the "Extended Timeout" role to the user, which prevents them from writing in general chat channels
-3. Document the reason and duration in the #moderation-log channel
-4. Open a ticket to inform the user before implementing
-5. Notify relevant parties if the user is part of a team or a member of the Captains' Council
-6. Schedule the role removal based on the timeout duration
-
-### 5.4 Immediate Action Situations
-- Immediately remove content and apply a 7-day extended timeout for users who:
-  - Post explicit or gore content
-  - Share personal information of others (doxxing)
-  - Make violent threats
-  - Are suspected bot accounts or attempting to raid
-- Assign the "Extended Timeout" role and inform the user via ticket
 
 ## 6. Timeout Roles
 
