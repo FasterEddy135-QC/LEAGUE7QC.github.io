@@ -297,7 +297,7 @@ In the event of a new president being elected while appointed staff members are 
       - If the President does not wish to approve a permanent ban, they may implement a sanction more severe than the sanction specified for 2 strikes, but less than a permanent ban.
   - The number of strikes a member has accrued should be made clear to the member my Moderators.
   - Should a member have accrued strikes, one strike shall be removed from their record for every consecutive 180 days of good behavior, defined as the member not accruing any further warnings of sanctions of any sort. 
-- Permanent bans may be issued with President's approval for severe violations or repeated serious infractions in community spaces.
+- Permanent bans may be issued with President's approval for severe violations or repeated moderate infractions in community spaces.
 - Staff will manage and enforce rules related to in-game exploits and gameplay violations.
 
 **In-Game Violations:**
