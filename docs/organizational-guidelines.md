@@ -290,14 +290,14 @@ In the event of a new president being elected while appointed staff members are 
 - For moderate or severe infractions, a three strikes system shall be implemented:
   - For moderate infractions, each infraction shall incur one strike.
   - For severe infractions, the infraction may incur up to three strikes according to the severity of the offense.
-  - A member who accures strikes shall be subject to the following sanctions:
+  - A member who accures strikes shall be subject to the following penalty:
     - 1 Strike: the member shall receive a temporary server timeout/ban between 2-7 days.
     - 2 Strikes: the member shall receive a temporary server timeout/ban of 30 days and shall be prohibited from participating in LEAGUE7 matches or events for that same period.
     - 3 Strikes: the member shall be permanently banned from all LEAGUE7 community spaces and prohibited from participating in any LEAGUE7 events or matches upon the President's approval.
-      - If the President does not wish to approve a permanent ban, they may implement a sanction more severe than the sanction specified for 2 strikes, but less than a permanent ban.
+      - If the President does not wish to approve a permanent ban, they may implement a penalty more severe than the penalty specified for 2 strikes, but less than a permanent ban.
   - The number of strikes a member has accrued should be made clear to the member my Moderators.
-  - Should a member have accrued strikes, one strike shall be removed from their record for every consecutive 180 days of good behavior, defined as the member not accruing any further warnings of sanctions of any sort. 
-- Permanent bans may be issued with President's approval for severe violations or repeated moderate infractions in community spaces.
+  - Should a member have accrued strikes, one strike shall be removed from their record for every consecutive 180 days of good behavior, defined as the member not accruing any further warnings or penalties of any sort. 
+- Permanent bans may be issued with President's approval for severe infractions or repeated moderate infractions in community spaces.
 - Staff will manage and enforce rules related to in-game exploits and gameplay violations.
 
 **In-Game Violations:**
