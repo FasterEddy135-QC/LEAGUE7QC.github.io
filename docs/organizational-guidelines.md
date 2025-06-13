@@ -281,6 +281,7 @@ In the event of a new president being elected while appointed staff members are 
 
 **Authority:** 
 - Moderators have the authority to enforce the code of conduct in community spaces (e.g., Discord, Twitch chat).
+- In cases of severe infractions of the Code of Conduct outside of LEAGUE7 community spaces which impacts the LEAGUE7 community, Moderators also have authority to enforce the Code of Conduct.
 - Staff members are responsible for enforcing rules related to gameplay and in-game behavior.
 
 **Actions:**
