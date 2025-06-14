@@ -43,7 +43,7 @@ These guidelines ensure fair and consistent moderation in the LEAGUE7 Discord se
 - Repeated minor infractions after warnings
 - Mild forms of harassment or bullying
 - Sharing of inappropriate content
-- Persistent unwanted competitive banter or criticism of another player
+- Persistent unwanted competitive banter or criticism of another player or team
 - Discussing topics that might breach NDA
 
 ### 4.3 Severe Violations
